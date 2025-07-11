@@ -1,4 +1,9 @@
--- since this is just an example spec, don't actually load anything here and return an empty spec
+-- This file has been replaced by organized plugin files:
+-- - lsp.lua: LSP configurations
+-- - formatting.lua: Prettier and formatting setup
+-- - treesitter.lua: Treesitter configurations  
+-- - ui.lua: UI-related plugins
+-- - colorscheme.lua: Theme configuration
 -- stylua: ignore
 if true then return {} end
 
